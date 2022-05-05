@@ -1,0 +1,49 @@
+{
+  "Employees": [
+    {
+      "id": 1,
+      "username": "ashish123",
+      "age": 22,
+      "address": "niketan nivas",
+      "department": "tester",
+      "salary": "6780",
+      "maritalstate": false
+    },
+    {
+      "username": "sanjay",
+      "age": "50",
+      "address": "db.json",
+      "department": "",
+      "salary": "1",
+      "maritalstate": "on",
+      "id": 2
+    },
+    {
+      "username": "bhagwan",
+      "age": "50",
+      "address": "db.json",
+      "department": "Designer",
+      "salary": "1",
+      "maritalstate": "on",
+      "id": 3
+    },
+    {
+      "username": "shankar",
+      "age": "50",
+      "address": "db.json",
+      "department": "Developer",
+      "salary": "1",
+      "maritalstate": "on",
+      "id": 4
+    },
+    {
+      "username": "rushpandav",
+      "age": "25",
+      "address": "Dhule",
+      "department": "",
+      "salary": "75000",
+      "maritalstate": "on",
+      "id": 5
+    }
+  ]
+}
